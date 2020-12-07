@@ -1,16 +1,21 @@
-### Hi there 👋
+# Project portfolio
 
-<!--
-**alexstudio3/alexstudio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some examples how I use advanced data analytics to solve real life business challenges, including original code and presentation documents.
 
-Here are some ideas to get you started:
+1. Song recommendation engine (python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. Credit card acceptance prediction (python & tableau)
+
+3. Singapore Airbnb listing price prediction (Python)
+
+
+SQL projects are upon request.
+
+
+
+
+
+
+
+
+
