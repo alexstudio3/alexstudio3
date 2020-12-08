@@ -18,7 +18,7 @@
 3. Song recommendation engine (Python)
 - K-means classification model based on song features
 
-![Presentation]: (https://docs.google.com/presentation/d/1zkcePs-4KMjCNU2PdhLJ9wkzgNFnwZs6eB7bdvgx0Fk/edit?usp=sharing)
+![Presentation](https://docs.google.com/presentation/d/1zkcePs-4KMjCNU2PdhLJ9wkzgNFnwZs6eB7bdvgx0Fk/edit?usp=sharing)
 
 
 
