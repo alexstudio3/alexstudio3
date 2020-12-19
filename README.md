@@ -7,8 +7,6 @@
 - Using Tableau to visualise Airbnb market in Singapore
 - Correlation analysis
 
-
-
 2. Credit card acceptance prediction (Python & Tableau) 
 [Presentation](https://docs.google.com/presentation/d/1THirtKhxeS1ZpheJsFknsSMIPiUilJTBGUl5iTFwHT8/edit?usp=sharing)
 -  Using different models (KNN, logistic Regression, Random Forrest) to classify whether customer will accept credit card offer
@@ -21,6 +19,7 @@
 
 ### Code examples
 [Song recommendation engine](https://github.com/alexstudio3/song_recommendation_engine/blob/master/spotify_song_prediction.ipynb)
+
 
 SQL projects are upon request.
 
