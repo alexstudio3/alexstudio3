@@ -21,7 +21,7 @@
 [Song recommendation engine](https://github.com/alexstudio3/song_recommendation_engine/blob/master/spotify_song_prediction.ipynb)
 
 
-### Alteryx projects 
+Alteryx projects 
 [Predictive analytics](https://github.com/alexstudio3/predictive_analytics_for_business_udacity)
 
 
