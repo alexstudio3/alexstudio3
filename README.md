@@ -22,6 +22,7 @@
 
 
 Alteryx projects 
+
 [Predictive analytics](https://github.com/alexstudio3/predictive_analytics_for_business_udacity)
 
 
