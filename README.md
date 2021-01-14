@@ -25,7 +25,7 @@
 [Predictive analytics](https://github.com/alexstudio3/predictive_analytics_for_business_udacity)
 
 ### Data Visualization projects 
-- Dashboard design 
+Dashboard design 
 1. Supermarket performance dashboard [Document](https://docs.google.com/document/d/1TbNOapYdZ5CysZyWGgZri1xdq2KW0zXho-rS02NZ9Sc/edit?usp=sharing)
 
 SQL projects are upon request.
