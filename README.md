@@ -28,6 +28,10 @@
 Dashboard design 
 1. Supermarket performance dashboard [Document](https://docs.google.com/document/d/1TbNOapYdZ5CysZyWGgZri1xdq2KW0zXho-rS02NZ9Sc/edit?usp=sharing)
 
+2. Flight delays USA
+
+
+
 SQL projects are upon request.
 
 
