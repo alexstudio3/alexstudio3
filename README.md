@@ -9,6 +9,7 @@
 
 2. Credit card acceptance prediction (Python & Tableau) 
 [Presentation](https://docs.google.com/presentation/d/1THirtKhxeS1ZpheJsFknsSMIPiUilJTBGUl5iTFwHT8/edit?usp=sharing)
+- Explored (using Tableau) which kind of customers should we target for credit card offer 
 -  Using different models (KNN, logistic Regression, Random Forrest) to classify whether customer will accept credit card offer
 
 3. Song recommendation engine (Python) [Presentation](https://docs.google.com/presentation/d/1zkcePs-4KMjCNU2PdhLJ9wkzgNFnwZs6eB7bdvgx0Fk/edit?usp=sharing)
@@ -30,7 +31,7 @@ Dashboard design
 
 2. Flight delays USA [Repo](https://github.com/alexstudio3/flight_delays)
 
-
+3. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
 
 SQL projects are upon request.
 
