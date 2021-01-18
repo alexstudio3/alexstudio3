@@ -33,7 +33,10 @@ Dashboard design
 
 3. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
 
-SQL projects are upon request.
+### SQL projects
+1. Global deforestation enqury [Document](https://docs.google.com/document/d/1t_BMxlm_8O4ZCeQ66a3a__LGVR6tehMbWFkLPlnthzI/edit?usp=sharing)
+
+Other SQL projects are upon request.
 
 
 
