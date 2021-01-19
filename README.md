@@ -34,7 +34,10 @@ Dashboard design
 3. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
 
 ### SQL projects
-1. Global deforestation enqury [Presentation](https://docs.google.com/presentation/d/1mYY9SjNLgQhHkzhy8-QIUdAeoLF6QEVuSE7IH1e3Yt8/edit?usp=sharing) [Document](https://docs.google.com/document/d/1t_BMxlm_8O4ZCeQ66a3a__LGVR6tehMbWFkLPlnthzI/edit?usp=sharing)
+1. Global deforestation enqury [Presentation](https://docs.google.com/presentation/d/1mYY9SjNLgQhHkzhy8-QIUdAeoLF6QEVuSE7IH1e3Yt8/edit?usp=sharing)
+[Document](https://docs.google.com/document/d/1t_BMxlm_8O4ZCeQ66a3a__LGVR6tehMbWFkLPlnthzI/edit?usp=sharing)
+
+2. Udiit-twitter (SQL database modelling and design) [Document](https://docs.google.com/document/d/1azE-LkXCAFKqO_uvqs_Zs1Nja2WXE6ACF2-RE5NZOjA/edit?usp=sharing)
 
 Other SQL projects are upon request.
 
