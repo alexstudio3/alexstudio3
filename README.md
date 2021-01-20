@@ -15,9 +15,6 @@
 3. Song recommendation engine (Python) [Presentation](https://docs.google.com/presentation/d/1zkcePs-4KMjCNU2PdhLJ9wkzgNFnwZs6eB7bdvgx0Fk/edit?usp=sharing)
 - K-means classification model based on song features
 
-### Marketing Analytics
-1. Google Analytics analysis of Google Merchanise store [Presentation](https://docs.google.com/presentation/d/1zVZvJ_tTYemVdstdSihBOeTTf5PKSqH-fft22qEDKZE/edit?usp=sharing)
-
 ### Code examples
 [Song recommendation engine](https://github.com/alexstudio3/song_recommendation_engine/blob/master/spotify_song_prediction.ipynb)
 
