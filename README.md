@@ -27,11 +27,9 @@
 
 ### Data Visualization projects 
 Dashboard design 
-1. Supermarket performance dashboard [Document](https://docs.google.com/document/d/1TbNOapYdZ5CysZyWGgZri1xdq2KW0zXho-rS02NZ9Sc/edit?usp=sharing)
+1. Supermarket performance dashboard [Document](https://docs.google.com/document/d/1TbNOapYdZ5CysZyWGgZri1xdq2KW0zXho-rS02NZ9Sc/edit?usp=sharing) [Dashboard](https://public.tableau.com/profile/alex.chen3804#!/vizhome/final_dashboard_16105585430940/Dashboard1)
 
-2. Flight delays USA [Repo](https://github.com/alexstudio3/flight_delays)
-
-3. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
+2. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
 
 ### SQL projects
 1. Global deforestation enqury [Presentation](https://docs.google.com/presentation/d/1mYY9SjNLgQhHkzhy8-QIUdAeoLF6QEVuSE7IH1e3Yt8/edit?usp=sharing)
