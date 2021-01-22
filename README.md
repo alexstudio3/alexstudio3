@@ -25,14 +25,18 @@
 ### Data Visualization projects 
 Dashboard design 
 1. Supermarket performance dashboard [Document](https://docs.google.com/document/d/1TbNOapYdZ5CysZyWGgZri1xdq2KW0zXho-rS02NZ9Sc/edit?usp=sharing) [Dashboard](https://public.tableau.com/profile/alex.chen3804#!/vizhome/final_dashboard_16105585430940/Dashboard1)
+- Created Tableau dashboard for supermarket performance up to 2018
 
 2. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
+- Created flourish story on the trends of global renewable energy vs access to electricty for different regions
 
 ### SQL projects
 1. Global deforestation enqury [Presentation](https://docs.google.com/presentation/d/1mYY9SjNLgQhHkzhy8-QIUdAeoLF6QEVuSE7IH1e3Yt8/edit?usp=sharing)
 [Document](https://docs.google.com/document/d/1t_BMxlm_8O4ZCeQ66a3a__LGVR6tehMbWFkLPlnthzI/edit?usp=sharing)
+- Used SQL queries to generate insights for world forestation coverage
 
 2. Udiit-twitter (SQL database modelling and design) [Document](https://docs.google.com/document/d/1azE-LkXCAFKqO_uvqs_Zs1Nja2WXE6ACF2-RE5NZOjA/edit?usp=sharing)
+- Used SQL to create database and migrate existing data on for twitter application
 
 Other SQL projects are upon request.
 
