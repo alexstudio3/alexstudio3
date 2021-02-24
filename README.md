@@ -19,9 +19,6 @@
 [Song recommendation engine](https://github.com/alexstudio3/song_recommendation_engine/blob/master/spotify_song_prediction.ipynb)
 
 
-### Alteryx projects 
-[Predictive analytics](https://github.com/alexstudio3/predictive_analytics_for_business_udacity)
-
 ### Data Visualization projects 
 Dashboard design 
 1. Supermarket performance dashboard [Document](https://docs.google.com/document/d/1TbNOapYdZ5CysZyWGgZri1xdq2KW0zXho-rS02NZ9Sc/edit?usp=sharing) [Dashboard](https://public.tableau.com/profile/alex.chen3804#!/vizhome/final_dashboard_16105585430940/Dashboard1)
