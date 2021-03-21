@@ -20,11 +20,7 @@
 
 
 ### Data Visualization projects 
-Dashboard design 
-1. Supermarket performance dashboard [Document](https://docs.google.com/document/d/1TbNOapYdZ5CysZyWGgZri1xdq2KW0zXho-rS02NZ9Sc/edit?usp=sharing) [Dashboard](https://public.tableau.com/profile/alex.chen3804#!/vizhome/final_dashboard_16105585430940/Dashboard1)
-- Created Tableau dashboard for supermarket performance up to 2018
-
-2. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
+1. World renewable energy vs access to electricity [Flourish story](https://public.flourish.studio/story/721899) 
 - Created flourish story on the trends of global renewable energy vs access to electricty for different regions
 
 ### SQL projects
